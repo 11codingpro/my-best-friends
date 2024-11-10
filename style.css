@@ -1,0 +1,33 @@
+body
+{
+    
+
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    background: yellowgreen;
+    flex-direction: column-reverse;
+    font-style: oblique;
+    font-size: larger;
+    color: darkred;
+
+
+}
+
+
+header
+{
+   padding: 20px;
+   margin: 10px;
+   border: 5px solid skyblue;
+   box-shadow: 5px 5px yellow;
+}
+
+footer
+{
+    padding: 50px;
+    margin: 30px;
+    border: 4px solid rgb(120, 149, 40);
+    background-position: 30px;
+
+}
